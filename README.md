@@ -1,3 +1,3 @@
 # Demo
 
-Project Demo [Demo](https://test-project-rikakus.vercel.app).
+Project Demo = [Check Demo](https://test-project-rikakus.vercel.app).
